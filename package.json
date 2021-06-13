@@ -1,0 +1,22 @@
+{
+  "name": "easybank-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass app/scss/style.scss dist/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajneesh-9088/Easybank-landing-page.git"
+  },
+  "author": "rajneesh kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajneesh-9088/Easybank-landing-page/issues"
+  },
+  "homepage": "https://github.com/Rajneesh-9088/Easybank-landing-page#readme",
+  "dependencies": {
+    "node-sass": "^6.0.0"
+  }
+}

@@ -22,8 +22,14 @@ body {
   .flex-ai-c {
     align-items: center; }
 
+.header__logo img {
+  background-color: red; }
+
 .header__menu > span {
   display: block;
   width: 26px;
   height: 2px;
   background-color: #2d314d; }
+
+* {
+  background-color: blue; }
